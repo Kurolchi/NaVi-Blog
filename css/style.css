@@ -1,0 +1,23 @@
+.nav {
+ background: #DCDCDC;
+}
+.nav-item {
+ padding: 10px;
+}
+.nav-item:hover, .active {
+ background: #FFFF00;
+}
+.nav-link, .nav-link:hover {
+ color: #FFFFFF;
+ font: bold 14px sans-serif;
+}
+/* Section */
+.hero-block {
+ background-image: url("../img/6.jpg");
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.carousel a:hover {
+ background: rgba(255, 255, 255, 0.2);
+}
